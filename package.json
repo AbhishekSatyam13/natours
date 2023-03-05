@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Project for self practice adv css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekSatyam13/natours.git"
+  },
+  "author": "Abhishek Satyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekSatyam13/natours/issues"
+  },
+  "homepage": "https://github.com/AbhishekSatyam13/natours#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
